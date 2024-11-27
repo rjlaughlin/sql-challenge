@@ -78,4 +78,4 @@ last_name,
 count(emp_no)
 FROM employees
 GROUP BY last_name
-ORDER BY count(emp_no);
+ORDER BY count(emp_no) DESC;

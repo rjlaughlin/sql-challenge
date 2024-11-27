@@ -1,7 +1,7 @@
 # sql-challenge
 
 ## Overview
-This project analyzes employee data from Pewlett Hackard during the 1980s and 1990s. Using six CSV files, the analysis aims to uncover insights into the workforce and their roles by performing data modeling, data engineering, and data analysis with **SQL**
+This project analyzes employee data from Pewlett Hackard during the 1980s and 1990s. Using six CSV files, the analysis aims to uncover insights into the workforce and their roles by performing data modeling, data engineering, and data analysis with **SQL**.
 
 ## Features
 
